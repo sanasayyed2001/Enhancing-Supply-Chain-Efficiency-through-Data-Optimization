@@ -3,7 +3,7 @@
 <h2 style="color: #2980b9;">Project Overview</h2>
 <p>This project focuses on solving various business problems related to supply chain management using advanced SQL queries. The dataset used in this project represents an e-commerce platform's supply chain operations, including transactions, orders, customer details, and shipment data.</p>
 <h2 style="color: #2980b9;">Problem Statement</h2>
-<p>The primary goal of this project is to leverage data analytics to optimize e-commerce operations and enhance the customer experience. By addressing key business questions through comprehensive data analysis, we aim to overcome challenges such as fragmented data, real-time decision-making needs, demand forecasting inaccuracies, and logistics inefficiencies.</p
+<p>The primary goal of this project is to leverage data analytics to optimize e-commerce operations and enhance the customer experience. By addressing key business questions through comprehensive data analysis, we aim to overcome challenges such as fragmented data, real-time decision-making needs, demand forecasting inaccuracies, and logistics inefficiencies.</p>
 <h2 style="color: #2980b9;">Objectives</h2>
 <ul>
     <li><strong>Transaction Analysis:</strong> Identify and analyze the most common types of transactions, ensuring fraudulent cases and specific city exclusions to get an accurate picture.</li>
