@@ -53,4 +53,9 @@
     <pre style="background-color: #f4f4f4; padding: 10px;">source supply_db.sql;</pre>
     <li><strong>Run the queries</strong> in <code>Supply_chain_base.sql</code> using your preferred SQL environment.</li>
 </ol>
+    <h2 style="color: #2980b9;">Technologies Used</h2>
+<ul>
+    <li><strong>SQL:</strong> MySQL for database management and querying.</li>
+    <li><strong>Presentation:</strong> Insights and conclusions are summarized in a PowerPoint presentation.</li>
+</ul>
 </body>
