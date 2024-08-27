@@ -1,5 +1,5 @@
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-<h1 style="color: #2c3e50;">Enhancing Supply Chain Efficiency through Data Optimization</h1>
+<h1 style="color: #2c3e50;">Enhancing Supply Chain Efficiency through Data Optimization.</h1>
 <h2 style="color: #2980b9;">Project Overview</h2>
 <p>This project focuses on solving various business problems related to supply chain management using advanced SQL queries. The dataset used in this project represents an e-commerce platform's supply chain operations, including transactions, orders, customer details, and shipment data.</p>
 <h2 style="color: #2980b9;">Problem Statement</h2>
